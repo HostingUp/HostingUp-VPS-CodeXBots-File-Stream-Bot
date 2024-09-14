@@ -108,6 +108,8 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ HostingUp ᴠᴘs 」─
 </h3>
+<p align="center"><a href="https://hpanel.hostingup.in/store/special-bot-hostings/special-tg-business-plan">
+<img src="https://hostingup.in/logo-white.svg" alt="Deploy to HostingUp">
 <p>
 <pre>
 hdocker https://github.com/HostingUp/HostingUp-VPS-CodeXBots-File-Stream-Bot PORT_NUMBER
