@@ -106,16 +106,11 @@
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ HostingUp ᴠᴘs 」─
 </h3>
 <p>
 <pre>
-git clone https://github.com/CodeXBots/File-Stream-Bot/tree/shortner
-cd Nobita-Stream-Bot
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-python3 -m Adarsh
+hdocker https://github.com/HostingUp/HostingUp-VPS-CodeXBots-File-Stream-Bot <port number>
 </pre>
 </p>
 </details>
