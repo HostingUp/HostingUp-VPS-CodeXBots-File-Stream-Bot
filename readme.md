@@ -110,7 +110,7 @@
 </h3>
 <p>
 <pre>
-hdocker https://github.com/HostingUp/HostingUp-VPS-CodeXBots-File-Stream-Bot <port number>
+hdocker https://github.com/HostingUp/HostingUp-VPS-CodeXBots-File-Stream-Bot PORT_NUMBER
 </pre>
 </p>
 </details>
